@@ -341,6 +341,6 @@ async def self(interaction: discord.Interaction, variable: str):
     await interaction.response.send_message(embed=debug_embed)
 
 
-client.run('MTAyODQ1ODA5MTY0NzM0MDU3NA.GDWmsx.b49KPFPh54idkxyfB0g-rjMVKsZpe7FOh97was')
+client.run(NULL)
 
 print(brel_embed_dict)
